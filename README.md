@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I’m Aman
 
-<!--
-**codebreaker32/codebreaker32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things where **code meets curiosity** — systems that think, scale, and occasionally misbehave before behaving better.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Computer Science Engineering student  
+- 🧠 Interested in **systems, algorithms, AI/ML, and simulations**
+- 🔍 Love breaking problems down until they confess
+- 🌱 Currently learning optimization, ML models, and large-scale systems
+- ⚡ Belief: *Clean logic > clever hacks*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java, C++, Python  
+- **Frameworks & Tools:** React, Django, Flask  
+- **Data & ML:** NumPy, Pandas, PyTorch  
+- **Databases:** MySQL, PostgreSQL  
+- **Dev Tools:** Git, GitHub, Docker, Linux  
+
+## 📌 What You’ll Find Here
+- 🧪 Experimental projects & research-oriented code  
+- ⚙️ Algorithmic problem-solving and optimizations  
+- 🌍 Simulations, models, and system design explorations  
+- 🧱 Clean commits (yes, I rebase 😄)
+
+## 📈 Current Focus
+- Agent-Based Modeling
+- Optimization algorithms (ACO, GA, PSO, hybrids)
+- ML fundamentals → applied intelligence
+- Writing code that’s readable
+
+## 🔗 Connect With Me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aman-bihari-61a123288/  
+- 🧠 **LeetCode:** https://leetcode.com/u/codeRed23/
+- ⚔️ **Codeforces:** https://codeforces.com/profile/code.breaker23
+- 📊 **Kaggle:** https://www.kaggle.com/amanbihari
+- 💼 **PortFolio** https://amanbihari.live/
+
+## 🤝 Let’s Build
+If you like:
+- thoughtful code  
+- structured chaos  
+- or building things that actually *mean* something  
+
+Feel free to explore, fork, or start a conversation.
+
+> *“First make it work. Then make it right. Then make it fast.”* and don’t forget to make it beautiful.
