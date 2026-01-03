@@ -16,12 +16,6 @@ I build things where **code meets curiosity** — systems that think, scale, and
 - **Databases:** MySQL, PostgreSQL  
 - **Dev Tools:** Git, GitHub, Docker, Linux  
 
-## 📌 What You’ll Find Here
-- 🧪 Experimental projects & research-oriented code  
-- ⚙️ Algorithmic problem-solving and optimizations  
-- 🌍 Simulations, models, and system design explorations  
-- 🧱 Clean commits (yes, I rebase 😄)
-
 ## 📈 Current Focus
 - Agent-Based Modeling
 - Optimization algorithms (ACO, GA, PSO, hybrids)
