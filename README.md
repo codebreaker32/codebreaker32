@@ -35,6 +35,6 @@ If you like:
 - structured chaos  
 - or building things that actually *mean* something  
 
-Let's break a good system and make it better
+Let's break a *good system* and make it a *better system*
 
 > *“First make it work. Then make it right. Then make it fast.”* and don’t forget to make it beautiful.
