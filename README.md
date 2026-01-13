@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Aman
 
-I build things where **code meets curiosity** — systems that think, scale, and occasionally misbehave before behaving better.
+I build things where **code meets curiosity**
 
 ## 🚀 About Me
 - 🎓 Computer Science Engineering student  
@@ -35,6 +35,6 @@ If you like:
 - structured chaos  
 - or building things that actually *mean* something  
 
-Feel free to explore, fork, or start a conversation.
+Let's break a good system and make it better
 
 > *“First make it work. Then make it right. Then make it fast.”* and don’t forget to make it beautiful.
