@@ -5,7 +5,8 @@ Let’s skip the dramatic bio.
 I write code, break systems, fix them,  
 then optimize them because why not.
 
-**Stack**
+### **Stack**
+
 Java • C++ • Python  
 React • Django • Flask  
 NumPy • Pandas • PyTorch  
