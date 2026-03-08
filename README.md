@@ -1,40 +1,31 @@
-# 👋 Hi, I’m Aman
+## 👋 Aman here,
 
-I build things where **code meets curiosity**
+Let’s skip the dramatic bio.
 
-## About Me
-- Computer Science Engineering student  
-- Interested in **systems, algorithms, AI/ML, and simulations**
-- Love breaking problems down until they confess
-- Currently learning optimization, ML models, and large-scale systems
-- Belief: *Clean logic > clever hacks*
+I write code, break systems, fix them,  
+then optimize them because why not.
 
-## Tech Stack
-- **Languages:** Java, C++, Python  
-- **Frameworks & Tools:** React, Django, Flask  
-- **Data & ML:** NumPy, Pandas, PyTorch  
-- **Databases:** MySQL, PostgreSQL  
-- **Dev Tools:** Git, GitHub, Docker, Linux  
+**Stack**
+Java • C++ • Python  
+React • Django • Flask  
+NumPy • Pandas • PyTorch  
+MySQL • PostgreSQL  
+Git • Docker • Linux  
 
-## Current Focus
+**Currently exploring**
 - Agent-Based Modeling
-- Optimization algorithms (ACO, GA, PSO, hybrids)
-- ML fundamentals → applied intelligence
-- Writing code that’s readable
+- Optimization algorithms
+- Machine Learning
 
-## 🔗 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/aman-bihari-61a123288/  
-- **LeetCode:** https://leetcode.com/u/codeRed23/
-- **Codeforces:** https://codeforces.com/profile/code.breaker23
-- **Kaggle:** https://www.kaggle.com/amanbihari
-- **PortFolio** https://amanbihari.live/
+In short, I’m trying to stay in the good books of machines… just in case the AI apocalypse turns out to be real
 
-## 🤝 Let’s Build
-If you like:
-- thoughtful code  
-- structured chaos  
-- or building things that actually *mean* something  
+## Links
+LinkedIn — https://www.linkedin.com/in/aman-bihari-61a123288/  
+LeetCode — https://leetcode.com/u/codeRed23/  
+Codeforces — https://codeforces.com/profile/code.breaker23  
+Kaggle — https://www.kaggle.com/amanbihari  
+Portfolio — https://amanbihari.live/
 
-Let's break a *good system* and make it a *better system*
+---
 
-> *“First make it work. Then make it right. Then make it fast.”* and don’t forget to make it beautiful.
+Build. Break. Improve. Sleep. Repeat.
