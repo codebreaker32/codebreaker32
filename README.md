@@ -13,7 +13,8 @@ NumPy • Pandas • PyTorch
 MySQL • PostgreSQL  
 Git • Docker • Linux  
 
-**Currently exploring**
+
+### **Currently exploring**
 - Agent-Based Modeling
 - Optimization algorithms
 - Machine Learning
