@@ -1,7 +1,3 @@
-## 👋 Aman here,
-
-Let’s skip the dramatic bio.
-
 I write code, break systems, fix them,  
 then optimize them because why not.
 
@@ -18,6 +14,7 @@ Git • Docker • Linux
 - Agent-Based Modeling
 - Optimization algorithms
 - Machine Learning
+- Microservices
 
 In short, I’m trying to stay in the good books of machines… just in case the AI apocalypse turns out to be real
 
