@@ -23,7 +23,6 @@ LinkedIn — https://www.linkedin.com/in/aman-bihari-61a123288/
 LeetCode — https://leetcode.com/u/codeRed23/  
 Codeforces — https://codeforces.com/profile/code.breaker23  
 Kaggle — https://www.kaggle.com/amanbihari  
-Portfolio — https://amanbihari.live/
 
 ---
 
